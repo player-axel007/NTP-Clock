@@ -17,7 +17,7 @@ Get esp8266ntp.ino.generic.bin and program esp8226.
 
 https://www.aranacorp.com/en/generating-and-uploading-bin-files-to-an-esp8266/
 
-To get Ap mode WiFi press buttom S1
+To get Ap mode WiFi press buttom S1 and reboot.
 
  ssid = "espnet";
  
