@@ -11,7 +11,7 @@ Ap-WiFi -> weMos-d1 gpio 13
 SFH203  -> weMos-d1 ADC 0
 
 
-get 
+Get esp8266ntp.ino.generic.bin and program esp8226.
 
 https://www.aranacorp.com/en/generating-and-uploading-bin-files-to-an-esp8266/
 
