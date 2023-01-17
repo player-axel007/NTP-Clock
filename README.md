@@ -10,6 +10,8 @@ Ap-WiFi -> weMos-d1 gpio 13
 
 SFH203  -> weMos-d1 ADC 0
 
++3.3v -> weMos-d1 3v3
+
 
 Get esp8266ntp.ino.generic.bin and program esp8226.
 
