@@ -23,6 +23,6 @@ To get Ap mode WiFi press buttom S1 and reboot.
  
  password = "espnetpass";
  
- Open web http://192.168.4.1/(IP may be another) and put your ssid, password and utc Offset (0-24)
+ Open web http://192.168.4.1/  (IP may be another) and put your ssid, password and utc Offset (0-24)
  
  Reboot and profit!
